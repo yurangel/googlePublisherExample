@@ -1,0 +1,5 @@
+pubsub:
+  topics:
+    pubsub-publisher: "projects/${yourProjectId}/topics/teste-topic-pubsub"
+server:
+  port: 8080
